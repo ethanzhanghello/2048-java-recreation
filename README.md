@@ -76,7 +76,7 @@ Open in your IDE and run `Main.java`.
 
 ## 🛟 Support Information
 
-Contact: `your-email@example.com` or open a GitHub issue.
+Contact: `ezhang0606@gmail.com` or open a GitHub issue.
 
 ---
 
